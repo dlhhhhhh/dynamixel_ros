@@ -1,0 +1,2 @@
+control:dynamixel_sdk:dynamixel_sdk_examples:usb_cam-develop:yolov5_ros:yolov5_ros_msgs
+-DCATKIN_DEVEL_PREFIX=/home/dlh/design/dynamixel_ros/devel -DCMAKE_INSTALL_PREFIX=/home/dlh/design/dynamixel_ros/install -G Unix Makefiles
